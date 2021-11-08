@@ -1,0 +1,32 @@
+{
+  "name": "lighthouse-sitemap",
+  "version": "1.0.0",
+  "description": "Tool to automate lighthouse scores for each URL in your Sitefinity sitemap.xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sitefinity-Partners/lighthouse-sitemap.git"
+  },
+  "keywords": [
+    "lighthouse",
+    "xml",
+    "automation",
+    "sitefinity"
+  ],
+  "author": "aaron.king@progress.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sitefinity-Partners/lighthouse-sitemap/issues"
+  },
+  "homepage": "https://github.com/Sitefinity-Partners/lighthouse-sitemap#readme",
+  "dependencies": {
+    "crawler": "^1.3.0",
+    "csv": "^5.5.3",
+    "lighthouse": "^8.5.1",
+    "puppeteer": "^10.4.0",
+    "xml2js": "^0.4.23"
+  }
+}

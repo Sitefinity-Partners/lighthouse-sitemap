@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset>
+  <url>
+       <loc>https://www.progress.com/</loc>
+       <lastmod>2021-11-05T23:11:44+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://www.progress.com/products</loc>
+       <lastmod>2021-11-05T23:11:44+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.progress.com/digital-experience</loc>
+       <lastmod>2021-11-05T23:11:44+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.progress.com/sitefinity-cms</loc>
+       <lastmod>2021-11-05T23:11:44+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
